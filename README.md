@@ -1,6 +1,7 @@
 ### Oie, eu sou a Flavia 👽
 
-Estou estudando Desenvolvimento de Software com foco em Backend na Cubos Academy. 
+Sou desenvolvedora de Software backend.
+Atualmente estou estudando Python e Django
 
 **Conecte-se comigo**
 
